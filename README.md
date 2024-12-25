@@ -1,4 +1,6 @@
 # Tetris
+![](/preview.gif)
+
 ## About
 My Tetris clone written in ncurses. Why yet another tetris? Every other
 terminal tetris that I found and tested was somewhat lacking.
